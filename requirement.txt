@@ -8,3 +8,4 @@ Image
 rembg
 streamlit_cropper
 streamlit_image_comparison
+cv2
