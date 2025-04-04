@@ -6,7 +6,7 @@ st.set_page_config(
     page_icon="👋",
 )
 
-logo = Image.open('images\logo.png')
+logo = Image.open('images/logo.png')
 st.image(logo, width=800)
 
 st.title("Website Xử lý ảnh")
